@@ -1,0 +1,7 @@
+INFO:log:DATE(day=2, month=11, year=2023)
+INFO:log:DATE(day=2, month=11, year=2023)
+INFO:log:DATE(day=4, month=9, year=2023)
+INFO:log:DATE(day=4, month=12, year=2023)
+INFO:log:DATE(day=6, month=3, year=2023)
+ERROR:log:Ошибка при обработке текста: 'понegdfvgfgfdк'
+ERROR:log:Ошибка при обработке текста: 'поhkgghuhuhukнegdfvgfgfdк'
